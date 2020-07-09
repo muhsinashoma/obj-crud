@@ -9,8 +9,6 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 <body>
-	
-	
 
 	<div class="wrap-table">
         <a class="btn btn-primary btn-sm" href="index.php">Add New Student</a>
